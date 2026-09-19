@@ -1,4 +1,4 @@
-# Python Screening Task 2 — AI Debugging Assistant
+# AI Debugging Assistant
 
 Task Objective 
 Write a natural-language prompt that will be given to an AI assistant (like ChatGPT). The AI will use your prompt to:
